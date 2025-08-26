@@ -60,7 +60,7 @@ answer is Github
 
  ansswer is UnileverWifi
 
- <img src='github-ohsint.png' alt='web search'>
+ <img src='wiglet.webp' alt='web search'>
 
 # Where has he gone on holiday?
 
@@ -72,6 +72,6 @@ the answer is NewYork city
 
  the answer is pennYDr0pper.! it is gotten for the worldpress site. Since the password was written in white font color, it was not visible on the page. However, by using the “ctrl+a” to select all and highlighting the entire text on the page, the password would become visible.
 
- <img src='wiglet.webp' alt='web search'>
+ <img src='password.png' alt='password'>
 
  In Summary, this challange was very interesting for people who want to experience the tools and methodlogy of Open Source intelligence. The Tools we used here are Exiftool web-based, Google Docs and Web page source page inspection.
